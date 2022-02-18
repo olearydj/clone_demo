@@ -1,4 +1,3 @@
 Hello, world
 
-changed
-another change
+Current version on GH.
